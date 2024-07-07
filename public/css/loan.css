@@ -1,0 +1,11 @@
+
+#loading, #results {
+    display: none;
+}
+
+body {
+margin: 150px auto;
+width: 100vw;
+height: 100vh;
+background: radial-gradient(#384256, #dbcdee);
+}
